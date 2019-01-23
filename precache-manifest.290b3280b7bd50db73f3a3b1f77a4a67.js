@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "36e3e00e663ebd311522",
-    "url": "/myrepos/static/js/main.36e3e00e.chunk.js"
+    "revision": "a5ddfd1d60b3006a0bd4",
+    "url": "/myrepos/static/js/main.a5ddfd1d.chunk.js"
   },
   {
     "revision": "11124abe128f0fcec16f",
@@ -80,7 +80,7 @@ self.__precacheManifest = [
     "url": "/myrepos/static/media/fa-solid-900.27603739.svg"
   },
   {
-    "revision": "4ecbca141dbfe3ac00a99535fda61f55",
+    "revision": "f4830c22624a4669b57d58d63e489d8b",
     "url": "/myrepos/index.html"
   }
 ];
