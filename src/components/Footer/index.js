@@ -22,7 +22,11 @@ const Footer = () => (
       <p>
         Este é um projeto de código aberto, veja seu repositório no
         {' '}
-        <a href="https://www.adenilson-santos.github.io/" target="_blank" rel="noopener noreferrer">
+        <a
+          href="https://github.com/adenilson-santos/myrepos"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
           Github
           {' '}
           <i className="fab fa-github" />
